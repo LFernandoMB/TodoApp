@@ -84,7 +84,7 @@ public class ProjectDialogScreen extends javax.swing.JDialog {
         jPanel2.setForeground(new java.awt.Color(255, 255, 255));
 
         jLabel3.setFont(new java.awt.Font("Segoe UI", 0, 14)); // NOI18N
-        jLabel3.setText("Título");
+        jLabel3.setText("Título *");
 
         jLabel4.setFont(new java.awt.Font("Segoe UI", 0, 14)); // NOI18N
         jLabel4.setText("Descrição");
