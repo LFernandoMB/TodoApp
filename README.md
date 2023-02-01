@@ -15,6 +15,7 @@ You can also edit and delete tasks and projects.
 
 ## 💻 The Project Working
 ![image](https://user-images.githubusercontent.com/91624923/215930083-7f1cd7ed-224b-4fd7-b613-8f95ff018266.png)
+
 GIF will stay here
 
 ## ⚙ Technologies Used
